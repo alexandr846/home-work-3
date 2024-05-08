@@ -93,7 +93,7 @@ public class Main {
         int workingnextyearK = workgrownK * 12;
         System.out.println("Маша теперь получает " + elevatedM + " рублей. Годовой доход вырос на " + workingnextyearM + " рублей");
         System.out.println("Денис теперь получает " + elevatedD + " рублей . Годовой доход вырос на " + workingnextyearD + " рублей");
-        System.out.println("Крестина теперь получает " + elevatedK + " рублей . Годовой доход вырос на " + workingnextyearK + " рублей!");
+        System.out.println("Крестина теперь получает " + elevatedK + " рублей . Годовой доход вырос на " + workingnextyearK + " рублей!!");
 
 
 
